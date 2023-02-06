@@ -1,0 +1,32 @@
+[
+  {
+    "libraryIdentifier" : "ed1aa806f7d7bc9a0161473890003b1f",
+    "format" : "image",
+    "displayName" : "dali.png"
+  },
+  {
+    "libraryIdentifier" : "5db8146446fed6bd6de3d9fe92a0b835",
+    "format" : "image",
+    "displayName" : "abs01.png"
+  },
+  {
+    "libraryIdentifier" : "f4a0b551ac1f4349d69eb281f982fca5",
+    "format" : "model",
+    "displayName" : "Vintage_Television_-_Panasonic_TR-555.usdz"
+  },
+  {
+    "libraryIdentifier" : "317fbbd76bf0957e1ea47f349cc15b28",
+    "format" : "image",
+    "displayName" : "abs02.png"
+  },
+  {
+    "libraryIdentifier" : "f0f7d23968921552949d6ba372f94367",
+    "format" : "image",
+    "displayName" : "abs03.png"
+  },
+  {
+    "libraryIdentifier" : "cfeee95550d811b6784182730f17fece",
+    "format" : "model",
+    "displayName" : "Old_Mini_Cooper_S.usdz"
+  }
+]
